@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:streaming_anime/models/anime.dart';
 import 'package:streaming_anime/screens/detailscreen.dart';
+import 'package:streaming_anime/services/api.dart';
 import 'package:streaming_anime/style/style.dart';
 
 class SearchScreen extends StatefulWidget {
